@@ -234,11 +234,3 @@ function zipr() {
 # GOOD
 # ----
 
-alias   c='cd ~/code; cd'
-alias cdr='cd ~/code/good.rb'
-alias cdi='cd ~/code/good.is'
-alias cdg='cd ~/code/gems'
-alias cdm='cd ~/code/maker'
-alias cdh='cd ~/code/hatch'
-alias cdu='cd ~/code/calumet'
-alias cdz='cd ~/code/citizen'

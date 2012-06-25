@@ -1,6 +1,6 @@
 [user]
-	name = claudiob
-	email = claudiob@gmail.com
+	name = XiaoHuang 
+	email = magnificentxiao@gmail.com
 [alias]
 	co = checkout
 [color]
@@ -11,6 +11,7 @@
 	excludesfile = ~/.gitignore
 	editor = mate -w
 	autocrlf = input
+	safecrlf = true
 [apply]
 	whitespace = nowarn
 [format]
